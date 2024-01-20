@@ -8,6 +8,7 @@ Pandas
 Matplot
 Numpy
 Seaborn
+Prophet
 
 Happy learning!
 -Sama
