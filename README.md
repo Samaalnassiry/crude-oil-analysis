@@ -9,13 +9,11 @@ Matplot
 Numpy
 Seaborn
 Prophet
-<<<<<<< HEAD
-=======
 Statsmodels
 Sklearn
 Sktime
 
->>>>>>> a42acbc (2.0)
+
 
 Happy learning!
 -Sama
