@@ -15,8 +15,5 @@ Sklearn
 Sktime
 
 
-=======
->>>>>>> 9dcc5d1 (red)
-
 Happy learning!
 -Sama
