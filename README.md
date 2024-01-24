@@ -9,7 +9,6 @@ Matplot
 Numpy
 Seaborn
 Prophet
-<<<<<<< HEAD
 Statsmodels
 Sklearn
 Sktime
